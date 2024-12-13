@@ -1,6 +1,6 @@
 Piscine Reloaded - 42 Project
 
-![Texte alternatif](mon_image.png)
+![Texte alternatif](gta.webp)
 
 Welcome to my Piscine Reloaded repository! 🎉 This project is all about revisiting some key exercises from the 42 Piscine, giving me a chance to sharpen my coding skills and dive deeper into the basics of C programming.
 
